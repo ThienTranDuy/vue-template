@@ -1,0 +1,16 @@
+{
+  "name": "VUE-CLI",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Vue cli ",
+  "author": "Duy Thien Tran (Mariohandsome)",
+  "scripts": {
+      "start": "vue serve --open",
+      "build": "vue build"
+  },
+  "dependencies": {
+    "@vue/cli": "^3.6.2",
+    "@vue/cli-service-global": "^3.6.0"
+  }
+}
